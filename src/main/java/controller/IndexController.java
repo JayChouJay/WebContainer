@@ -1,10 +1,8 @@
 package controller;
 
 import server.HttpServlet;
-import server.HttpServletRequest;
-import server.HttpServletResponse;
-
-import java.io.IOException;
+import server.impl.HttpServletRequest;
+import server.impl.HttpServletResponse;
 
 public class IndexController implements HttpServlet {
 

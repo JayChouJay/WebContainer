@@ -8,6 +8,9 @@ import java.util.Enumeration;
 import java.util.HashMap;
 import java.util.Properties;
 
+/**
+ * 读取server.xxx配置文件
+ */
 public class ServerFileReader {
     private static HashMap<String, String> map = new HashMap<>();
 

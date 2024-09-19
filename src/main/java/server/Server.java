@@ -7,6 +7,9 @@ import java.io.IOException;
 import java.net.ServerSocket;
 import java.net.Socket;
 
+/**
+ * 启动器
+ */
 public class Server {
 
     public static void main(String[] args) throws IOException {

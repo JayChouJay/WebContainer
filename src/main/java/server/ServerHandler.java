@@ -1,8 +1,10 @@
 package server;
 
+import server.impl.HttpServletRequest;
+import server.impl.HttpServletResponse;
+
 import java.io.*;
 import java.net.Socket;
-import java.util.Arrays;
 import java.util.HashMap;
 
 public class ServerHandler extends Thread {

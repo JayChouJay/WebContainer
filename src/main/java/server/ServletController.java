@@ -1,7 +1,9 @@
 package server;
 
 
-import java.io.FileReader;
+import server.impl.HttpServletRequest;
+import server.impl.HttpServletResponse;
+
 import java.io.IOException;
 import java.io.InputStream;
 import java.io.InputStreamReader;

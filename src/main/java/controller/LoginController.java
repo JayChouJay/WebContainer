@@ -1,8 +1,8 @@
 package controller;
 
 import server.HttpServlet;
-import server.HttpServletRequest;
-import server.HttpServletResponse;
+import server.impl.HttpServletRequest;
+import server.impl.HttpServletResponse;
 
 
 //实例Controller代码
